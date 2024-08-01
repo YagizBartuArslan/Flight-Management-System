@@ -14,7 +14,7 @@ This project is a Flight Management System implemented in C++. It allows users t
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/flight-management-system.git
+    git clone https://github.com/YagizBartuArslan/flight-management-system.git
     cd flight-management-system
     ```
 
